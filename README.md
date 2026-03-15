@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho em uma industria Têxtil
+- 🔭 Hoje trabalho em uma Industria Têxtil
 - 🌱 Estudando TypeScript
 - 📫 Contate-me no e-mail: workjgabrielribeiro@gmail.com
 - 😄 Pronouns: Ele/Dele
