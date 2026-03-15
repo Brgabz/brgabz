@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel
 
 - 🔭 Hoje trabalho em uma Industria Têxtil
-- 🌱 Estudando TypeScript
+- 🌱 Estudando Análise e Desenvolvimeno de Sistemas
 - 📫 Contate-me no e-mail: workjgabrielribeiro@gmail.com
 - 😄 Pronouns: Ele/Dele
 
